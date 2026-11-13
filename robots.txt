@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+Disallow: /for/
+Disallow: /unlock
+Disallow: /locked/
+Disallow: /vault/
+Disallow: /api/
+
+Sitemap: https://dincer.design/sitemap.xml

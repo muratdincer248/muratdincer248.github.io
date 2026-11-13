@@ -1,0 +1,9 @@
+:HL["/_next/static/chunks/f113077e21bb03a9.css","style"]
+:HL["/_next/static/chunks/eaa56f45c1b38d3d.css","style"]
+:HL["/_next/static/media/Figtree_latin_wght-s.p.f755e4bc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/FunnelDisplay_latin_wght-s.p.32ed66c8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/InstrumentSerif_latin_italic-s.p.b1508682.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/Inter_latin_wght-s.p.c757f81b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/SpaceGrotesk_latin_wght-s.p.43410083.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/0d09ce6fffaff428.css","style"]
+0:{"buildId":"VLAHt_QJYQMArZ6IrG4av","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"craft","paramType":null,"paramKey":"craft","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"d","paramKey":"cape-design-system","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
