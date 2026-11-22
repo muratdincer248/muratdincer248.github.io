@@ -16,4 +16,4 @@
 :HL["/cv-logos/nestle.svg","image"]
 :HL["/cv-logos/migros.svg","image"]
 :HL["/cv-logos/sompo.svg","image"]
-0:{"buildId":"VLAHt_QJYQMArZ6IrG4av","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"cv","paramType":null,"paramKey":"cv","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"Z8eZ2lB5OnLm6U5Q2a_g6","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"cv","paramType":null,"paramKey":"cv","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
